@@ -1,7 +1,7 @@
 {
     "name": "timoun/anchour",
     "type": "library",
-    "description": "Toolkit for deploying web applications",
+    "description": "Toolkit for deploying web applications fork from rizeway",
     "keywords": ["web", "deploy", "php"],
     "license": "MIT",
     "authors": [
