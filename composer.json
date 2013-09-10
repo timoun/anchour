@@ -1,5 +1,5 @@
 {
-    "name": "rizeway/anchour",
+    "name": "timoun/anchour",
     "type": "library",
     "description": "Toolkit for deploying web applications",
     "keywords": ["web", "deploy", "php"],
@@ -14,6 +14,11 @@
             "name": "Julien Bianchi",
             "email": "contact@jubianchi.fr",
             "homepage": "http://jubianchi.fr"
+        },
+        {
+            "name": "Arthur Halet",
+            "email": "contact@arthurh.fr",
+            "homepage": "http://arthurh.fr"
         }
     ],
     "autoload": {
