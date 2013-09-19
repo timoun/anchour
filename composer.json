@@ -34,6 +34,7 @@
         "symfony/console": "2.2",
         "symfony/options-resolver": "*",
         "symfony/config": "*",
+        "phpseclib/phpseclib": "*",
         "youknowriad/oossh": "dev-master"
     },
     "require-dev": {
